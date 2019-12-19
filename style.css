@@ -49,6 +49,9 @@ a {
     justify-content: center;
     height: 50vh;
 }
+.cover {
+    width: 25rem;
+}
 /* GRID */
 .grid-wrapper {
     display: grid;
